@@ -17,4 +17,4 @@
 * [10 of Spades](https://github.com/16667/Metasploitable-3-CTF/blob/master/10_of_Spades/10_of_Spades.md)
 * [King of Spades](https://github.com/16667/Metasploitable-3-CTF/blob/master/King_of_Spades/King_of_Spades.md)
 
-![Scoreboard](img/img1.png)
+![Scoreboard](./img/img1.png)
