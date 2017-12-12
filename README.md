@@ -1,5 +1,5 @@
 # Metasploitable-3-CTF
-Metasploitable3 CTF Write Up
+Metasploitable3 CTF Write-ups
 
 * [Introduction](https://github.com/16667/Metasploitable-3-CTF/blob/master/Introduction/Introduction.md)
 * [Joker](https://github.com/16667/Metasploitable-3-CTF/blob/master/Joker/joker.md)
