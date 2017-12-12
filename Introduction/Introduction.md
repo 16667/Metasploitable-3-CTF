@@ -1,3 +1,5 @@
+## Introduction
+
 Once logged-in in our Kali box, kindly offered by rapid7, we need to study carefully our victim machine. To do so, we can unleash nmap's power
 
 ```
